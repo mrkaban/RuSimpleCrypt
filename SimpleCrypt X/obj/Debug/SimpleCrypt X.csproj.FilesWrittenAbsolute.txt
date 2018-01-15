@@ -1,0 +1,8 @@
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/obj/Debug/SimpleCrypt_X.Form1.resources
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/obj/Debug/SimpleCrypt_X.Properties.Resources.resources
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/obj/Debug/SimpleCrypt X.exe
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/bin/Debug/SharpAESCrypt.dll
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/bin/Debug/SimpleCrypt X.exe.mdb
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/bin/Debug/SimpleCrypt X.exe
+/home/dylan/Desktop/SimpleCrypt X/SimpleCrypt X/obj/Debug/SimpleCrypt X.exe.mdb
